@@ -20,7 +20,7 @@ https://www.figma.com/file/mD23XxtxGLgVWVOk4rz0o3/SRM-Hub?node-id=0:1
 
 - User-Friendly Interface: Our intuitive website design makes navigation a breeze, ensuring you find what you're looking for in no time.
 
-Whether you're a local looking for a new favorite spot or a traveler exploring new culinary horizons, DineNearby is your trusted companion in the world of dining. Join us today and embark on a delectable journey of flavors, aromas, and memorable dining experiences.
+Whether you're a local looking for a new favorite spot or a traveler exploring new culinary horizons, SRM-HUB is your trusted companion in the world of dining. Join us today and embark on a delectable journey of flavors, aromas, and memorable dining experiences.
 
 **Semester Notes for SRM Students: Your Path to Academic Success**
 
